@@ -40,7 +40,7 @@ This repository provides a simple, practical guide to AC maintenance, troublesho
 - [AC Maintenance Guide]([ac-maintenance.md])  
 - [Troubleshooting AC Issues](troubleshooting.md)  
 - [Energy Efficiency Tips](energy-efficiency.md)
-- DOwnload now : https://play.google.com/store/apps/details?id=com.localloox&pcampaignid=web_share
+- Download now : https://play.google.com/store/apps/details?id=com.localloox&pcampaignid=web_share
 
 ---
 
